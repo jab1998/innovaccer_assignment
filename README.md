@@ -9,7 +9,9 @@
 
 
 Assignment : Infrastructure Engineering
+
 Language used : Python (ver 2.7.14) (**Some syntax errors may occur if executed with Python3 **)
+
 Operating System used : Ubuntu/Linux
 
 Running the file : Type the below command in the terminal (python followed by a space and then filename)
@@ -56,5 +58,4 @@ Task - 5 : (file name - task5.py)
 Problem : Compressing a folder or directory is always necessary to move it through mail or compress its size etc..
 
 Solution : Given the path of directory, the program compresses the directory and creates the zip file.
-
 --------------------------------------------------------------------------
